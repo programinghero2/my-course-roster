@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "course_img": "https://i.ibb.co/47LLLjX/Rectangle-2.png",
+        "course_name": "Introduction to C Programming",
+        "course_descriptation" :"C programming is a powerful and efficient language often used for low-level system development and applications where performance is critical.It's essential for system-level development and high-performance applications",
+        "course_price": 1449,
+        "course_credit": 3
+    },
+    {
+        "id": 2,
+        "course_img": "https://i.ibb.co/pfhBN7G/Rectangle-2-1.png",
+        "course_name": "Introduction to Algorithms",
+        "course_descriptation" :"An algorithm is a set of clear, step-by-step instructions for solving a problem or performing a task efficiently, essential in computer science and problem-solving. It's like a recipe for problem-solving.",
+        "course_price": 759,
+        "course_credit": 4
+    },
+    {
+        "id": 3,
+        "course_img": "https://i.ibb.co/nmV7qCv/Rectangle-2-2.png",
+        "course_name": "Introduction to C++ for DSA",
+        "course_descriptation" :"C++ is a robust and versatile programming language known for its efficiency and support for object-oriented programming, widely used in software development.",
+        "course_price": 979,
+        "course_credit": 5
+    },
+    {
+        "id": 4,
+        "course_img": "https://i.ibb.co/t3bZXqz/Rectangle-3.png",
+        "course_name": "Basic Data Structures",
+        "course_descriptation" :"Data structures are organized formats for storing and managing data efficiently, critical in computer science for tasks like searching, sorting, and optimizing memory usage. They provide a blueprint for organizing and accessing information in various applications.",
+        "course_price": 1369,
+        "course_credit": 4
+    },
+    {
+        "id": 5,
+        "course_img": "https://i.ibb.co/S0Hp9s8/Rectangle-2-3.png",
+        "course_name": "Introduction to OOP Python",
+        "course_descriptation" :"Python's object-oriented programming (OOP) is a programming style that uses objects, which are instances of classes, to structure and modularize code. It promotes code reusability, encapsulation, and abstraction, allowing developers to create more organized and maintainable software systems.",
+        "course_price": 1249,
+        "course_credit": 3
+    },
+    {
+        "id": 6,
+        "course_img": "https://i.ibb.co/WGjL8ZR/Rectangle-2-4.png",
+        "course_name": "Software Engineering",
+        "course_descriptation" :"Software engineering is a systematic and disciplined approach to designing, developing, and maintaining software systems to meet specific requirements efficiently. It involves a structured process that encompasses planning, designing, coding, testing, and managing software projects.",
+        "course_price":2059,
+        "course_credit": 4
+    },
+    {
+        "id": 7,
+        "course_img": "https://i.ibb.co/SBB2TFd/Rectangle-3-1.png",
+        "course_name": "AWS, Cloud Computing",
+        "course_descriptation" :"AWS is Amazon's cloud platform, providing scalable and on-demand computing resources, while cloud computing, in general, offers flexible and cost-efficient access to a wide range of computing services via the internet.",
+        "course_price": 2579,
+        "course_credit": 5
+    },
+    {
+        "id": 8,
+        "course_img": "https://i.ibb.co/VHJ4x0W/Rectangle-2-5.png",
+        "course_name": "Database (MySQL)",
+        "course_descriptation" :"MySQL is an open-source relational database management system (RDBMS) known for its speed, reliability, and scalability, making it a popular choice for storing and managing structured data in various applications.",
+        "course_price": 669,
+        "course_credit": 4
+    },
+    {
+        "id": 9,
+        "course_img": "https://i.ibb.co/JnP7zKr/Rectangle-2-6.png",
+        "course_name": "Problem-Solving Part",
+        "course_descriptation" :"Problem-solving is the process of identifying, analyzing, and finding solutions to challenges or obstacles, requiring critical thinking and creativity to reach effective resolutions, applicable in diverse fields, including mathematics, science, engineering, and everyday life.",
+        "course_price": 1349,
+        "course_credit": 3
+    }
+]

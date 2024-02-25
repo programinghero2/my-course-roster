@@ -1,0 +1,7 @@
+<!-- My website some Feature -->
+* On my website, users can select courses if they want. But they cannot select more than one course
+* If you click on the select button of each card, the credit of that card will be added to the total credit, but the total credit will not be more than 20.
+* If you click on the select button of each card, the price of that card will be added to the total price
+<!-- Below Discuss how i managed the state in my assignment project -->
+* First I took a useEffect to load the data and to store the data I took a useState named cards.
+Map on the fetchCards and call the Card component every time and send one object as props. Then go to the Card component and create one card and use the object that comes in the props of that component to show the information of the card.Then there is an EvenHandler in the App Component. This sends the evenHandler function as props to the Cards component. Then from the Cards component handleCarts function Card sends as props to the component. Then clicking the select button of each card sends the object of that card as an argument to the handleCarts function.There is a useState named creditTime to store the credit hours of that card when you click on the select button of each card. And there is a usestate called remainingTime to store the remaining credit hours. Again there is a usestate called totalPrice to store the price.
